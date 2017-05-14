@@ -1,4 +1,4 @@
-;;; init-local.el --- my own customization packages to be installed
+;;; init-local.el --- additional packages to be installed
 
 ;;; Commentary:
 
