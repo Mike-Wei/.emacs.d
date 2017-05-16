@@ -17,8 +17,8 @@
 (require-package 'yasnippet)
 
 ;;; solarized-theme
-(require-package 'solarized-theme)
-(load-theme 'solarized-dark)
+                                        ;(require-package 'solarized-theme)
+                                        ;(load-theme 'solarized-dark)
 
 ;;; need to download Monaco font first for this to work
 (set-face-attribute 'default nil :font "Monaco" :height 120)
