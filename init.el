@@ -63,7 +63,8 @@
 
 (require 'init-recentf)
 (require 'init-smex)
-(require 'init-ivy)
+;; disable ivy-mode and turn on helm in init-local
+;; (require 'init-ivy)
 (require 'init-hippie-expand)
 (require 'init-company)
 (require 'init-windows)
